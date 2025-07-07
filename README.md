@@ -8,8 +8,8 @@ Welcome to my AI research repository! This space showcases cutting-edge projects
 
 ### 🤖 Multi-Agent Architectures
 - **[Mental Health AI Chatbot](Mental_Health_Ai_chatbot.ipynb)**  
-  [![Demo Video][![AI Mental Health Chatbot Preview](AI%20chatbot%20for%20Mental%20Health.png)](https://github.com/sufyanAshraf/AI_Agents/blob/main/Mental%20Health%20AI%20chatbot.mp4)
-*Click the image above to watch the full demo video* 
+  [![Demo Video] *Click the image above to watch the full demo video*
+  [![AI Mental Health Chatbot Preview](AI%20chatbot%20for%20Mental%20Health.png)](https://github.com/sufyanAshraf/AI_Agents/blob/main/Mental%20Health%20AI%20chatbot.mp4)
   An empathetic chatbot providing mental health support using advanced NLP techniques.
 
 ### 🦙 LLM Fine-Tuning Projects

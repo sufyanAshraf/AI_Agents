@@ -21,19 +21,6 @@ Welcome to my AI research repository featuring advanced projects in **AI agent s
 | ![Pinecone](https://img.shields.io/badge/Pinecone-430098?logo=pinecone&logoColor=white) | Long-term memory storage |
 | ![FAISS](https://img.shields.io/badge/FAISS-005571?logo=facebook&logoColor=white) | Efficient similarity search |
 
-
-
-
-
-
-
-
-# 🧠 AI Agents Research Hub
-
-![AI Banner](https://via.placeholder.com/1200x400/0D1117/FFFFFF?text=Advanced+AI+Agents+and+LLM+Technologies)
-
-Welcome to my AI research repository! This space showcases cutting-edge projects in **AI agent systems**, **LLM fine-tuning**, and **agent orchestration frameworks**.
-
 ## 🔥 Featured Projects
 
 ### 🤖 Multi-Agent Architectures
